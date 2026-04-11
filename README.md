@@ -80,6 +80,12 @@ Includes club/alliance system and real-time voice chat.
 
 ## 🚀 快速体验 | Quick Start
 
+### 获取完整商业源码 | Contact
+如需包含全部8种玩法、语音聊天、俱乐部联盟、完整代码及技术支持的商业版本，请联系：
+Telegram	@alibabama401
+Email	ttpoker733@gmail.com
+
+
 ### 方式一：直接安装 APK（推荐）
 
 1. 请点击下载：https://github.com/pokercode88/texas-holdem-poker-complete-source/releases/download/v1.0-demo/jinbei.client_4_0313.apk
@@ -102,10 +108,7 @@ docker-compose up -d
 # 4. 修改客户端中的服务器地址为本地 IP，运行调试
 
 
-### 获取完整商业源码 | Contact
-如需包含全部8种玩法、语音聊天、俱乐部联盟、完整代码及技术支持的商业版本，请联系：
-Telegram	@alibabama401
-Email	ttpoker733@gmail.com
+
 
 ❓ 常见问题 | FAQ
 Q1: 这套源码包含哪些玩法？
