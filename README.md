@@ -1,4 +1,4 @@
-#  德州扑克完整源码 | 德州撲克完整原始碼 | Texas Hold'em Complete Source|德州源码
+#  德州扑克/德州撲克完整源码 | Unity+C++ | 8种玩法(SNG/MTT/奥马哈/短牌/大菠萝等) | 俱乐部/俱樂部+语音聊天/語音聊天 | 商业级代码
 
 <div align="center">
 
